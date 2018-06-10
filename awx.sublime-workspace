@@ -1,0 +1,495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"outlin",
+				"outline-color\tproperty"
+			],
+			[
+				"out",
+				"outline-style\tproperty"
+			],
+			[
+				"slideIn",
+				"slideInTrans"
+			],
+			[
+				"an",
+				"animate"
+			],
+			[
+				"new",
+				"newContainerLoading"
+			],
+			[
+				"Ba",
+				"BaseTransition"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"list-s",
+				"list-style-image"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"request",
+				"request_id"
+			],
+			[
+				"ak",
+				"akzentica_4f"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"hk",
+				"hk_grotesk"
+			],
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"and",
+				"animation-direction"
+			],
+			[
+				"fade",
+				"fadeInLeft"
+			],
+			[
+				"design",
+				"design-visual"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"colum",
+				"column-count"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"service",
+				"services-container"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"invert()"
+			],
+			[
+				"sec",
+				"section-wrapper"
+			],
+			[
+				"E_",
+				"E_NOTICE"
+			],
+			[
+				"tra",
+				"transition-delay"
+			],
+			[
+				"styl",
+				"stylesheet"
+			],
+			[
+				"overflo",
+				"overflow-x"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"Sans",
+				"sans-serif"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"compile",
+			"compi.e",
+			"alert(messageAlert);",
+			"print messageAlert;",
+			"return messageAlert;",
+			"echo messageAlert;",
+			"echo messageAlert"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/erik/Desktop/React/awx-app"
+	],
+	"file_history":
+	[
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/index.html",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/_entry.html",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/index 2.html",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/index 3.html",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/base.html",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/style.css",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/base 2.html",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/index 4.html",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/cp.css",
+		"/Users/erik/Desktop/igembed.html",
+		"/Users/erik/Desktop/Projects/eh.coBeta/craft-structure/_components/macros.html",
+		"/Users/erik/Desktop/Projects/eh.coBeta/craft-structure/info/index.html",
+		"/Users/erik/Desktop/Projects/eh.coBeta/craft-structure/cp.css",
+		"/Users/erik/Desktop/Projects/eh.coBeta/craft-structure/base.html",
+		"/Users/erik/Desktop/Projects/eh.coBeta/craft-structure/index.html",
+		"/Users/erik/Desktop/Projects/eh.coBeta/craft-structure/projects/_entry.html",
+		"/Users/erik/Desktop/Projects/eh.coBeta/craft-structure/projects/index.html",
+		"/Users/erik/Desktop/Projects/eh.coBeta/index.php",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/.env",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/header.php",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/index.php",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/nav.php",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/footer.php",
+		"/Users/erik/Desktop/eh.coBeta/index.html",
+		"/Users/erik/Desktop/eh.coBeta/base.html",
+		"/Users/erik/Desktop/eh.coBeta/assets/css/style.css",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/main.js",
+		"/Users/erik/Desktop/eh.coBeta/about.php",
+		"/Users/erik/Desktop/eh.coBeta/index.php",
+		"/Users/erik/Desktop/eh.coBeta/header.php",
+		"/Users/erik/Desktop/eh.coBeta/footer.php",
+		"/Users/erik/Desktop/eh.coBeta/meta.php",
+		"/Users/erik/Desktop/eh.coBeta/nav.php",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/mobile.css",
+		"/Users/erik/Desktop/style.css",
+		"/Users/erik/Desktop/header.php",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/scripts.js",
+		"/Users/erik/Desktop/Projects/lust.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/assets/css/mobile.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/assets/css/main.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/assets/js/main.js",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/assets/includes/header.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/assets/includes/nav.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/index.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/assets/includes/footer.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/sign-up.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/full-index.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/assets/components/header.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Auto/assets/components/nav.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Founderi/htdocs/assets/includes/header.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Founderi/htdocs/assets/includes/nav.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Founderi/htdocs/search.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Founderi/htdocs/dev-notice.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Founderi/htdocs/index.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Founderi/htdocs/assets/css/main.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Founderi/htdocs/assets/js/main.js",
+		"/Users/erik/Desktop/main.css",
+		"/Users/erik/Desktop/index.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Foundrie/htdocs/assets/includes/footer.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Foundrie/htdocs/assets/includes/nav.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Foundrie/htdocs/assets/css/main.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Foundrie/htdocs/index.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Foundrie/htdocs/header.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Foundrie/htdocs/nav.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Projects/Clients/Foundrie/htdocs/footer.php",
+		"/Users/erik/Downloads/html5-boilerplate_v6.0.1/index.html",
+		"/Users/erik/Desktop/django-apachevirtualhostconf.txt",
+		"/Users/erik/Downloads/html5-boilerplate_v6.0.1/robots.txt",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Production/templates/_components/base.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Production/templates/agency/index.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Production/templates/work/index.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Server/Production/.env",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/web/assets/css/style.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/_components/base.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/web/assets/js/scripts.js",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/web/assets/css/cp.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/.env",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/error/404.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/tutorials.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/pages/book-now.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/articles/index.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/articles/_entry.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/index.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/services/index.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/agency/index.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/services/_entry.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/templates/articles/category.html",
+		"/Users/erik/.ssh/my-ssh-key.pub",
+		"/Users/erik/.ssh/my-ssh-key",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/index 2.php",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/general.php",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/db.php",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/.htaccess",
+		"/Users/erik/Downloads/rsakeyfile/id_rsa.pub",
+		"/Users/erik/Downloads/rsakeyfile/id_rsa",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/assets/css/style.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/assets/js/scripts.js",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/assets/components/nav.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/assets/components/header.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/amp/index.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/amp/assets/components/header.amp.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/amp/assets/components/footer.amp.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/amp/assets/components/nav.amp.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Dev/dev.fortuneandthebold.com/public/assets/css/style.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Dev/dev.fortuneandthebold.com/templates/index.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Dev/dev.fortuneandthebold.com/templates/_components/base.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Dev/dev.fortuneandthebold.com/templates/posts/_entry.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Dev/dev.fortuneandthebold.com/templates/solutions/_entry.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Dev/dev.fortuneandthebold.com/templates/solutions/index.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/index.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Prod/fortuneandthebold.com/public_html/assets/components/footer.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/_Server/Dev/dev.fortuneandthebold.com/public/.gitignore",
+		"/private/var/folders/zj/06gxz49s6w9dz428mk206whw0000gn/T/fz3temp-2/app.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/fortuneandthebold.com/public_html/craft/composer.json",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/fortuneandthebold.com/public_html/craft/.env",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/fortuneandthebold.com/public_html/craft/config/db.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/fortuneandthebold.com/public_html/assets/css/style.css",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/fortuneandthebold.com/public_html/portal/craft/.env",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/fortuneandthebold.com/public_html/portal/craft/config/db.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/fortuneandthebold.com/public_html/portal/craft/config/general.php",
+		"/Users/erik/Desktop/.env",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/htdocs/assets/components/nav.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/fortuneandthebold.com/craft/templates/_layouts/_main.html",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/htdocs/articles/templates/articles.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/htdocs/assets/components/header.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/htdocs/assets/components/footer.php",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/htdocs/.htaccess",
+		"/Users/erik/Desktop/Projects/Fortune & the Bold/Brand/Website/htdocs/articles/index.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "awx.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
